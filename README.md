@@ -1,4 +1,4 @@
-# Automações da CEHAB
+# 🤖 Automações da CEHAB
 Esse repositório, tem por finalidade apresentar os códigos que eu andei desenvolvendo ao longo da minha jornada como estagiário e como comissionado aqui na CEHAB. Ao todo me envolvi com  06 projetos de automações todos eles com responsabilidades únicas que facilitam o dia-a-dia do setor da G.O.P e outros setores também.
 
 ##  🤖 Robo Despacho 
